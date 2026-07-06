@@ -1,16 +1,18 @@
-## Hi there 👋
+# hello
 
-<!--
-**sergethedude/sergethedude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+software developer focused on c++ and low level programming.
 
-Here are some ideas to get you started:
+### what i like
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* c++
+* reverse engineering
+* game hacking
+* windows internals
+* operating systems
+* performance optimization
+
+### github
+
+mostly personal projects, experiments, and things i build to learn.
+
+always open to learning something new.
